@@ -1,0 +1,8 @@
+th,td,table{
+    border: 2px solid blueviolet;
+    border-collapse: collapse;
+}
+table {
+    table-layout: fixed;
+    width: 100%;
+}
